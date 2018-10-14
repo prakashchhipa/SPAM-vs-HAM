@@ -1,13 +1,15 @@
 # SPAM-vs-HAM
 Classical machine learning based solution to detect SPAM messages over SMS spam collection dataset available at UCI Machine Learning.
 
-**Problem Statement**
+**Problem Statement:**
+
 Classify SPAM messages out of all the SMS
 
 This dataset made available at https://www.kaggle.com/uciml/sms-spam-collection-dataset
 
 **Solution:**
-refer HAMvsSPAM.py
+
+Refer HAMvsSPAM.py
 
 1) Data Loading & Preprocessing - Loaded textual data into Panda DataFrames. Anotated lebels. Performed lower casing, punctuation removel, and stop words deletions
 2) Feature Engineering - Created One Hot enncoded form of BOW(Frequenct count) encoding, TF-IDF(term frequency - inverse document frequency) encoding & simply word length feature
