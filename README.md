@@ -11,6 +11,7 @@ This dataset made available at https://www.kaggle.com/uciml/sms-spam-collection-
 
 Refer HAMvsSPAM.py
 
+
 1) Data Loading & Preprocessing - Loaded textual data into Panda DataFrames. Anotated lebels. Performed lower casing, punctuation removel, and stop words deletions
 2) Feature Engineering - Created One Hot enncoded form of BOW(Frequenct count) encoding, TF-IDF(term frequency - inverse document frequency) encoding & simply word length feature
 3) ML Classifiers - Considered LogisticRegression, KNeighborsClassifier, DecisionTreeClassifier, RandomForestClassifier, SVM, GradientBoostingClassifier & NaiveBayes Bernoulli, and NaiveBayes Gaussian
