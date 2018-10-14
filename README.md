@@ -25,13 +25,13 @@ NaiveBayes Bernoulli(F1 score 99%) & Logistic Regression (F1 Score/Accuracy 98.9
 
  1. Python 3.x
  2. Libraries
-   - Scikit Learn
-   - NLTK
-   - Numpy
-   - Pandas
-   - Matplotlib
-   - Scipy
-   - Seaborn
+    - Scikit Learn
+    - NLTK
+    - Numpy
+    - Pandas
+    - Matplotlib
+    - Scipy
+    - Seaborn
 
 
 **Note for other Enthusiastic contributor:**
@@ -41,4 +41,5 @@ Most welcome to extend this experiment with better feature engineering by consid
 **Queries?...Connect with me at:**
 
 LinkedIn: https://linkedin.com/in/prakash-chandra-chhipa
+
 Email: prakash.chandra.chhipa@gmail.com
